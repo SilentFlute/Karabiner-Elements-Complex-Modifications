@@ -13,3 +13,7 @@
 # 菜单键/应用键/上下文键到命令键(app to left_cmd)
 
 [3.json](./3.json)
+
+# 使用删除键来删除(use del to delete)
+
+[4.json](./4.json)
