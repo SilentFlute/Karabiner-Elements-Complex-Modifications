@@ -1,0 +1,16 @@
+{
+  "description": "app to left_cmd",
+  "manipulators": [
+    {
+      "type": "basic",
+      "from": {
+        "key_code": "application"
+      },
+      "to": [
+        {
+          "key_code": "left_command"
+        }
+      ]
+    }
+  ]
+}
